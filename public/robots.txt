@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://next-wordpress-starter.netlify.app/sitemap.xml
